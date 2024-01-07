@@ -1,4 +1,3 @@
-
 class Property:
     def __init__(self, area, rooms, price, address):
         self.area = area
